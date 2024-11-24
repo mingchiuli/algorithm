@@ -1,0 +1,11 @@
+[package]
+name = "algorithm"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+members = [
+    "leetcode_88",
+]
+
+[dependencies]
