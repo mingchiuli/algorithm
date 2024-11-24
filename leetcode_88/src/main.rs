@@ -6,6 +6,7 @@ fn main() {
     let mut nums2 = vec!(-1,1,1,1,2,3);
     Solution::merge(&mut nums1, 3, &mut nums2, 6);
     print!("{:?}", nums1); 
+    
 }
 
 struct Solution;
