@@ -5,7 +5,7 @@ edition = "2021"
 
 [workspace]
 members = [
-    "leetcode_88",
+    "leetcode_88", "leetcode_88_lib",
 ]
 
 [dependencies]
