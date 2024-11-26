@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [workspace]
-members = [ "leetcode_26", "leetcode_27", "leetcode_27_lib",
+members = [ "leetcode_26", "leetcode_27", "leetcode_27_lib", "leetcode_80",
     "leetcode_88", "leetcode_88_lib",
 ]
 

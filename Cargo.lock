@@ -22,6 +22,10 @@ name = "leetcode_27_lib"
 version = "0.1.0"
 
 [[package]]
+name = "leetcode_80"
+version = "0.1.0"
+
+[[package]]
 name = "leetcode_88"
 version = "0.1.0"
 dependencies = [
