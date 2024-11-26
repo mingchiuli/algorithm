@@ -11,6 +11,6 @@ impl Solution {
                 idx += 1;
             }
         }
-        return idx as i32;
+        idx as i32
     }
 }

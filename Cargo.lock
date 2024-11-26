@@ -7,6 +7,10 @@ name = "algorithm"
 version = "0.1.0"
 
 [[package]]
+name = "leetcode_26"
+version = "0.1.0"
+
+[[package]]
 name = "leetcode_27"
 version = "0.1.0"
 dependencies = [
