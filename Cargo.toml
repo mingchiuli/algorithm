@@ -1,7 +1,7 @@
 
 [workspace]
 resolver = "2"
-members = [ "lc_274", "lc_45", "lc_55", "leetcode_121", "leetcode_122", "leetcode_169", "leetcode_189", "leetcode_26", "leetcode_27", "leetcode_27_lib", "leetcode_80",
+members = [ "lc_274", "lc_380", "lc_45", "lc_55", "leetcode_121", "leetcode_122", "leetcode_169", "leetcode_189", "leetcode_26", "leetcode_27", "leetcode_27_lib", "leetcode_80",
     "leetcode_88", "leetcode_88_lib",
 ]
 
